@@ -3,7 +3,7 @@
 DifferentTux is a mod of SuperTux v0.7. The story should explain things a lot
 better.
 
-## Story: Nolok changes the world! In a bad way.
+## Story: Nolok changes the world! In a bad way. 
 
 Nolok does an experiment that goes wrong and brings everything to a different 
 universe that has nothing to do with Tux Junior except from the fact that somehow, 
