@@ -1,0 +1,8 @@
+(supertux-music
+  (file "deck_the_halls.ogg")
+  (title "Deck The Halls")
+  (authors "Dizzy Crow")
+  (license "CC-BY 4.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)
